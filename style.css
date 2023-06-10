@@ -1,0 +1,247 @@
+.sign{
+    position: absolute;
+    left: 665px;
+    opacity: 0.7
+}
+.search{
+    float: left;
+    width: 810px;
+    height:39px;
+    background-color:skyblue;
+    position:absolute;
+    left: 350px;
+}
+.search input{
+    float: left;
+    width: 770px;
+    height: 40px;
+    border: 1px solid skyblue;
+    border-right: 0px;
+    color:grey ;
+    font-size: 14px;
+    padding-left: 15px;
+    
+}
+.search button{
+    float: left;
+    width: 40px;
+    height: 42px;
+    background-color: blue;
+    border: 0;
+    background: url(照片/搜索.webp);
+    
+}
+li{float: left;
+    list-style:none ;
+    background-color:white;
+    width: 70px;
+    height: auto;
+    padding-left: 40px;
+    
+}
+.nav{
+    float: left;
+    position: absolute;
+    height: 10px;left: -80px;
+    top: 120px;
+}
+.nav ul li{
+    float:left;
+}
+.nav ul li a{
+    height: 42px;
+    padding: 0 10px;
+    line-height: 42px;
+    font-size: 18px;
+    color: black;
+}
+.nav ul li a :hover{
+    border-bottom:2px solid white ;
+}
+.welcome{
+    opacity: 0.6;
+    text-align: center;
+    font-size: 60px;
+    color: aliceblue;
+}
+.turn{
+    opacity: 0.7;
+    text-align: left;
+    font-size: 25px;
+    height: 50px;    
+    width: 150px;
+    color: rgb(0, 2, 3);
+    background-color: rgb(250, 252, 255);
+    position: absolute;
+    top: 200px;
+}
+.dlu {background-image:url(照片/网页图1.jpg);
+    opacity: 0.812;       /*设置透明*/ 
+    size: 300px;
+    position:absolute;
+    top: 200px;
+    left: 450px;
+    width: 600px;
+    height:  450px;
+    bottom: 100px;
+    background-repeat:no-repeat 
+     ;
+}
+.account{
+    position: absolute;
+    top: 180px;
+    left: 170px;
+}
+.psw{
+    position: absolute;
+    top: 230px;
+    left: 170px;
+}
+.tl{
+    position:absolute;
+    top: 50px;
+    left: 225px;
+}
+.btn{position: absolute;
+    left:100px;
+    width: 100px;
+    height: 70px;
+    border: 0;
+
+}
+.touch{
+    position:absolute;
+    left: 10px;
+    top:420px;
+    color: aliceblue;
+}
+.bjin{
+    background-image: url('照片/Downed（坠落之地）.webp');
+    background-repeat: no-repeat;
+}
+.myfile{
+    opacity: 0.6;
+    height: 380px;
+    width: 500px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 470px;
+    left: 0px;
+}
+.music{
+    background-image:url(照片/音乐.png);
+    width: 80px;
+    height: 70px;
+    position: absolute;
+    left: -20px;
+    top: 35px;
+    text-align:left;
+}
+.video{
+    background-image: url(照片/视频.png);
+    height: 70px;
+    width: 80px;
+    position: absolute;
+    left: -20px;
+    top: 115px;
+    text-align: left;
+    
+}
+.file{
+    background-image: url(照片/文件.jpg);
+    height: 70px;
+    width: 80px;
+    position: absolute;
+    left: -20px;
+    top: 205px;
+    text-align: left;
+    
+}
+.picture{
+    background-image: url(照片/图片.png);
+    height: 70px;
+    width: 80px;
+    position: absolute;
+    left: -20px;
+    top: 285px;
+    text-align: left;
+    
+}
+.forpicture{
+    height: 30px;
+    position: absolute;
+    left: 100px;
+    top:290px;
+}
+.formusic{
+    height: 30px;
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+.forvideo{
+    height: 30px;
+    position: absolute;
+    left: 100px;
+    top: 118px;
+}
+.forfile{
+    height: 30px;
+    position: absolute;
+    left: 100px;
+    top: 208px;
+
+}
+.myapp{
+    opacity: 0.6;
+    height: 380px;
+    width: 550px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 470px;
+    left: 550px;
+}
+.name1{position:absolute;
+    left: 205px;
+    top: -20px;
+}
+.name3{position:absolute;
+    left: 235px;
+    top: -20px;
+
+}
+.qq{width: 0px;
+    height: 0px;
+    position: absolute;
+    left: -25px;
+    top: 30px;
+}
+.wechat{ 
+    height: 20px;
+    position: absolute;
+    left: 70px;
+    top: 20px;
+}
+.direct{
+    opacity: 0.6;
+    height: 380px;
+    width: 250px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 470px;
+    left:1150px;
+
+}
+.name2{
+    position: absolute;
+    left:96px;
+    top: -20px;
+}
+.background2{
+    width: 100px;
+    position: absolute;
+    float: left;
+    left: 0px;
+    top:864px;
+
+}
